@@ -27,6 +27,10 @@ body {
   border-radius: 0.5rem;
 }
 
+.instruct {
+  color: hsl(220, 15%, 55%);
+}
+
 @media (min-width: 960px) {
   .card {
     width: 20vw;
